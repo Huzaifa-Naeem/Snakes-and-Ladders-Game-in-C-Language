@@ -20,4 +20,6 @@ Possible Improvements in the Game could be:
 3) Delay in displaying of the dice roll and board result, and
 4) A 4-Player Mode.
 
+Update 1.1:
+Some compilers prefer "scanf" instead of "scanf_s", so try changing if your compiler gives an error.
 All Rights Reserved
